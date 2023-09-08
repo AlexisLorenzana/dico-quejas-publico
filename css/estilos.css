@@ -1,0 +1,17 @@
+.encabezado{
+    background-color: #1777bb;
+    height: 50px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.formBusqueda{
+    width: 50%;
+    position: relative;
+    left: 25%;
+}
+
+.tablaSucursal{
+    padding-top: 15px;
+}
